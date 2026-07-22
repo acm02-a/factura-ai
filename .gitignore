@@ -1,0 +1,21 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# Secretos y salidas
+.env
+salida.json
+*.out.json
+
+# SO / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

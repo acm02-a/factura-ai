@@ -1,0 +1,15 @@
+FACTURA ELECTRONICA
+Razon Social: SOLUCIONES ANDINAS SAC
+RUC: 20512345671
+N°: F001-00001234
+Fecha de emision: 2026-05-14
+Moneda: PEN
+
+ITEMS:
+2 | Laptop Lenovo ThinkPad E14 | 2500.00 | 5000.00
+1 | Monitor Dell 24 pulgadas | 700.00 | 700.00
+3 | Mouse inalambrico Logitech | 60.00 | 180.00
+
+Base Imponible: S/ 5880.00
+IGV (18%): S/ 1058.40
+Importe Total: S/ 6938.40

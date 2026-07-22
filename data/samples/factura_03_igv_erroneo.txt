@@ -1,0 +1,13 @@
+FACTURA ELECTRONICA
+Razon Social: CONSULTORA DE SISTEMAS PERU SAC
+RUC: 20100987652
+N°: F003-00000512
+Fecha de emision: 2026-06-20
+Moneda: PEN
+
+ITEMS:
+1 | Servicio de consultoria en migracion cloud | 4000.00 | 4000.00
+
+Base Imponible: S/ 4000.00
+IGV (18%): S/ 620.00
+Importe Total: S/ 4620.00

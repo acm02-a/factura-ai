@@ -1,0 +1,14 @@
+FACTURA ELECTRONICA
+Razon Social: IMPORTACIONES DEL PACIFICO EIRL
+RUC: 20487654320
+Numero: F002-00000087
+Fecha: 2026-06-03
+Moneda: PEN
+
+ITEMS:
+10 | Silla ergonomica de oficina | 350.00 | 3500.00
+2 | Escritorio en L melamina | 900.00 | 1800.00
+
+Base Imponible: S/ 5300.00
+IGV: S/ 954.00
+Total: S/ 6254.00

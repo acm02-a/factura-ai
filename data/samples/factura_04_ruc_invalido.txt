@@ -1,0 +1,13 @@
+FACTURA ELECTRONICA
+Razon Social: DISTRIBUIDORA NORTE SRL
+RUC: 20512345670
+N°: F001-00000901
+Fecha de emision: 2026-05-28
+Moneda: PEN
+
+ITEMS:
+5 | Caja de papel bond A4 75g | 200.00 | 1000.00
+
+Base Imponible: S/ 1000.00
+IGV (18%): S/ 180.00
+Importe Total: S/ 1180.00
